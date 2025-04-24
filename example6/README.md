@@ -70,7 +70,7 @@ int main() {
 
     return 0;
 }
-
+```
 
 # Multithreading Example - Part 2
 
@@ -146,7 +146,7 @@ int main() {
 
     return 0;
 }
-
+```
 # Multithreading Example - Part 3
 
 This document provides an overview of the `example6-part3.cpp` file, which demonstrates multithreading in C++ using the POSIX threads (pthreads) library. This implementation simplifies message passing by using global arrays.
